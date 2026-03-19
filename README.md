@@ -22,11 +22,11 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyrllanP&theme=merko) 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyrllanP&theme=merko) 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyrllanP&theme=merko&utcOffset=8) |
-|:-:|:-:|:-:|
+|:---------:|:---------:|:---------:|
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyrllanP&theme=merko) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyrllanP&theme=merko&hide_border=true)](https://git.io/streak-stats) |
-| : : | : : | 
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyrllanP&theme=merko) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyrllanP&theme=merko&hide_border=true)](https://git.io/streak-stats) | |
+|:---------:|:---------:|:---------:|
 
 
 </div>
