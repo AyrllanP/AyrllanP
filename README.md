@@ -19,9 +19,7 @@
       
 <div align="center">
 
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyrllanP&theme=merko" width="250"/> 
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyrllanP&theme=merko" width="250"/> 
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyrllanP&theme=merko&utcOffset=8" width="250"/> |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyrllanP&theme=merko" width="250"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyrllanP&theme=merko" width="250"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyrllanP&theme=merko&utcOffset=8" width="250"/> |
 |:---------:|:---------:|:---------:|
 
 
