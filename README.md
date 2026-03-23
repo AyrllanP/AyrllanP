@@ -19,7 +19,7 @@
       
 <div align="center">
 
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyrllanP&theme=merko" width="350"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyrllanP&theme=merko" width="350"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyrllanP&theme=merko&utcOffset=8" width="350"/> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyrllanP&theme=merko" width="350"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyrllanP&theme=merko" width="350"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyrllanP&theme=merko&utcOffset=8" width="350"/> |
 |:---------:|:---------:|:---------:|
 
 
